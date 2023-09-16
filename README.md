@@ -9,7 +9,7 @@ In Italy, if you have a standard 3kW contract, you can draw at maximum:
 - up to 3.3 kW (3 kW + 10% tolerance, "available power") for an indefinite amount of time
 - up to 4.2 kW (3 kW + 27%, "power limit") for 180 minutes
 - up to 14 kW for 2 minutes (overload)
-- >14 kW for 1-2 seconds (short circuit)
+- \>14 kW for 1-2 seconds (short circuit)
 
 Source: https://www.asmb.it/export/sites/asmb2/.downloads/it/energia-elettrica/informazione/Il-contatore-elettronico.pdf
 
