@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "fastify": "^3.27.4",
+    "fastify-cors": "^6.0.3",
+    "fastify-static": "^4.6.1"
+  }
+}
